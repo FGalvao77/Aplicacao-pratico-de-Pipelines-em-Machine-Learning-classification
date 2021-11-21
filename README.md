@@ -1,1 +1,1 @@
-# Aplicacao-pratico-de-Pipelines-em-Machine-Learning-classification
+# Aplicação prático de Pipelines em Machine Learning (passo a passo) | classification
